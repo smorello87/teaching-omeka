@@ -11,10 +11,7 @@ Through this workshop, we are going to create and populate a database with artif
 
 In this workshop, you will learn the following skills:
 
-- Understand some of the conceptual challenges faced when developing digital archives 
-- Create an online database of digital archival items
-- Create a public facing exhibition featuring items from your collections
-- Consider using Omeka as a teaching tool in undergraduate and graduate classes 
+- 
 
 ## Estimated time
 
