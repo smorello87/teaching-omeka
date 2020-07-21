@@ -23,20 +23,17 @@ One Hour.
 
 ### Pre-reading suggestions
 
-- Something about Digital Archives?
+- ["What Do We Mean by 'Digital Archives?'"](https://darc.gcdiprojects.org/Digital_Archives)
+- ["Teaching With Digital Archives in the First-Year Writing Classroom"](https://www.insidehighered.com/blogs/gradhacker/teaching-digital-archives-first-year-writing-classroom)
+- [Allison C. Marsh, "Omeka in the Classroom: The Challenges of Teaching Material Culture in a Digital World." _Literary and Linguistic Computing_, Volume 28, Issue 2, June 2013, Pages 279–282.](https://doi-org.ezproxy.gc.cuny.edu/10.1093/llc/fqs068)
 
 ### Projects that use these skills
 
 - [Fifteenth-Century Italian Art (by Nicole Riesenberger)](http://www.quattrocentoitalia.artinterp.org/omeka/)
-
 - [Goin’ North](https://goinnorth.org/)
-
 - [Ice Age Flood Explorer (by Chad Pritchard, Larry Cebula, and Paul Lindholdt)](http://floodexplorer.org/)
-
 - [James Monroe Papers (by Alexandra deGraffenreid, Seth Mintzer, MacKenzie Murphy, Chris Wright)](http://projects.umwhistory.org/jmp/)
-
 - [Fredericksburg: City of Hospitals (by Jeffrey McClurken)](http://projects.umwhistory.org/cwh/)
-
 - [The Berkeley Revolution (by Scott Saul) – please note: not an Omeka site, but easily replicable with Omeka](http://revolution.berkeley.edu/)
 
 ### Ethical Considerations
@@ -46,7 +43,6 @@ One Hour.
 ## Resources (optional)
 
 - [Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)
-- [Teaching with Omeka](sections/teaching.md) -- REVISE
 - [Next Steps/Resources](sections/next.md)   
 - [Digital Archive Research Collective (DARC) Wiki](cuny.is/darc-wiki)
 - [Omeka Documentation](https://omeka.org/classic/docs/)

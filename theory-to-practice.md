@@ -2,15 +2,13 @@
 
 ## Suggested Further Readings
 
-- Amanda Visconti, Teaching with Omeka DH Consultation Notes, Literature Geek, August 19, 2016.
-- Alston Cobourn, Spreading Awareness of Digital Preservation and Copyright via Omeka-based Projects, The Journal of Interactive Technology and Pedagogy, March 28, 2016.
-- Jeffrey McClurken (Associate Professor and Chair of History and American Studies at the University of Mary Washington), “Teaching and Learning with Omeka: Discomfort, Play, and Creating Public, Online, Digital Collections," Learning Through Digital Media Experiments in Technology and Pedagogy, 2011.
-- Jeffrey McClurken (Associate Professor and Chair of History and American Studies at the University of Mary Washington). “Teaching with Omeka". ProfHacker blog, Chronicle of Higher Education, August 9, 2010.
+- [Amanda Visconti, "Teaching with Omeka DH Consultation Notes," _Literature Geek_, August 19, 2016.](http://literaturegeek.com/2016/08/19/DH-consultation-notes-teaching-omeka)
+- [Alston Cobourn, "Spreading Awareness of Digital Preservation and Copyright via Omeka-based Projects," _The Journal of Interactive Technology and Pedagogy_, March 28, 2016.](http://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/)
+- [Jeffrey McClurken , “Teaching and Learning with Omeka: Discomfort, Play, and Creating Public, Online, Digital Collections," _Learning Through Digital Media Experiments in Technology and Pedagogy_, 2011.](http://mcpress.media-commons.org/artoflearning/teaching-and-learning-with-omeka/)
 
 ## Other Tutorials
 
-- [Basic Omeka]
-
+- [Getting Started with TEI](https://github.com/gofilipa/tei_workshop)
 
 ## Projects or Challenges to Try
 
