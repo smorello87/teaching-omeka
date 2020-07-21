@@ -43,7 +43,7 @@ The [Omeka Gym](https://omekagym.omeka.net/about) and [Omeka for Millenials](htt
 
 ## Learn from and Teach through Metadata 
 
-Following a theoretical introduction to metadata and its ethics (please refer to the [Intro to Omeka workshop)[https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md]), consider developing shared metadata guidelines for your archive with your students. 
+Following a theoretical introduction to metadata and its ethics (please refer to the [Intro to Omeka workshop](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md)), consider developing shared metadata guidelines for your archive with your students. 
 
 Once you have settled on a schema and developed shared criteria to compile it, consider [populating  a spreadsheet in class with metadata](https://omekagym.omeka.net/items/show/526) for some sample items.
 
