@@ -15,7 +15,6 @@
 
 - [Installing Omeka (by The Programming Historian)](https://programminghistorian.org/en/lessons/installing-omeka)
 - [Omeka Gym](https://omekagym.omeka.net/welcome)  
-A collection of resources for scholars who want to build a digital collection with Omeka or teach with Omeka.  It has exercises, sample data sets, and lesson plans.
 
 ## Discussion Questions
 

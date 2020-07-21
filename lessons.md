@@ -51,7 +51,7 @@ Once you have settled on a schema and developed shared criteria to compile it, c
 
 When using Omeka in the classroom, you will be prompted to discuss questions that concern copyright and licensing. [Alston Cobourn](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/) recommends [a set of excercises to teach and practice this](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/). This is also an excellent opportunity to introduce students to [Creative Commons licensing](https://creativecommons.org/licenses/), proper citation and acknowledgements, as well as the concept of fair use. 
 
-If you are teaching a slightly more advanced DH class, encouraging your students to work with and along other online repositories can also offer the opportunity to introduce them to [linked open data](https://programminghistorian.org/en/lessons/intro-to-linked-data) and its affordances. 
+If you are teaching a slightly more advanced DH class, encouraging your students to work with and along other online repositories can also be an opportunity to introduce them to [linked open data](https://programminghistorian.org/en/lessons/intro-to-linked-data) and its affordances. 
 
 ## Grading 
 
