@@ -51,5 +51,7 @@ It's a good idea to spend some time in class discussing copyright and licensing.
 
 ## Grading 
 
-Developing a process-based grading rubric is often recommended for praxis-oriented assignments. Students enter the classroom with different degrees of digital knowledge, expertise, and access to technology. As most digital humanists would concur (and especially if this is your first time using digital archives as a pedagogical tool), it is likely that there will be some trial and error involved. As [Allison C. Marsh](https://academic.oup.com/dsh/article-abstract/28/2/279/1037192?redirectedFrom=fulltext) suggests:
+Because students enter the classroom with different degrees of digital knowledge, expertise, and access to technology, and because – as most digital humanists would concur, especially if this is your first time using digital archives as a pedagogical tool – it is likely that there will be some trial and error involved, developing a process-based grading rubric is often recommended for praxis-oriented assignments.
+
+ As [Allison C. Marsh](https://academic.oup.com/dsh/article-abstract/28/2/279/1037192?redirectedFrom=fulltext) suggests:
 “In assessing [students’] work, it is important to be mindful of the learning process; remember that they are professionals in training, and they should not be judged on their first attempt but rather on the progress they achieve by the time they graduate.” 
