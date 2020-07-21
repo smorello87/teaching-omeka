@@ -8,13 +8,13 @@ With a little bit of work, however, you can have both options at the same time. 
 # Project Ideas
 Omeka offers some great features that integrate well within teaching environments and is especially well suited for projects that involve:
 
-* Archival Preservation <br>
+## Archival Preservation <br>
 Digitizing and describing objects from physical archives and creating metadata descriptions and virtual exhibits.
 
-* “Archival Recovering” and “Archival Remixing” <br>
+## “Archival Recovering” and “Archival Remixing” <br>
 Presenting visual analyses or reinterpretations of holdings, including born-digital material, from other websites or digital archives. I borrow the terms “recovery” and “remix” from [Laura Helton](https://www.academia.edu/11058327/The_Question_of_Recovery_Slavery_Freedom_and_the_Archive) and [Elizabeth Maddock-Dillon](https://ecda.northeastern.edu/home/about/decolonizing-the-archive/), respectively.
 
-* Coursework Archiving <br>
+## Coursework Archiving <br>
 Omeka allows teachers to create a repository of final course projects, such as digital and multimodal essays, with metadata attached. These can be offered as private resources or be open to the public. 
 
 # Desirable Outcomes
@@ -22,13 +22,13 @@ Omeka allows teachers to create a repository of final course projects, such as d
 - Digital Literacy <br>
 Teaching with Omeka allows students the opportunity to engage (sometimes for the first time) in some common practices for working with digital tools, such as how to use software documentation, how to participate in a community of practice, or something as simple as how to problem solve through Google effectively. An Omeka-based assignment can also be an opportunity to provide students basic training on essential digital skills, as students will likely encounter questions on file formats, standards, sizing, copyright, and licensing. 
 
-- Archival Research Skills <br>
+## Archival Research Skills <br>
 In addition to learning about artistic, historical, or literary subjects and introducing students to the field of Digital Humanities, digital archives also provide basic training in archival research. Students will have the opportunity to both conduct research in local (or digital) archives while thinking like archivists and curators, as they engage critically with their items. 
 
-- Public-Facing Academic Writing <br>
+## Public-Facing Academic Writing <br>
 Curating a digital archive requires students to engage with forms of writing that differ from standard academic writing. [Public Humanities-oriented work](https://www.neh.gov/divisions/fedstate/in-the-field/56-ways-do-the-public-humanities) allows for class reflections on topics as diverse as effective storytelling techniques, the affordances of digital writing, and the intricacies of visual rhetoric. At the same time, producing work that (unlike traditional assignment) has the potential of living and circulating beyond the walls of the classroom (and the eye of a course instructor) can nurture in students a sense of relevance. (Please note that, because of their public facing nature, keeping questions around privacy in mind when designing and introducing these assignments in class is especially key to these kind of projects.) 
 
-- Collaborative Work <br>
+## Collaborative Work <br>
 Digital archive-based courses allow students to participate in the kind of collaborative praxis that, [according to Lisa Spiro](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335), is one of the central tenets of Digital Humanities. “Lab Culture” can be enacted by working collectively on assignments, building on (and crediting!) the work of previous cohorts, and connecting work conducted in class with the local community. 
 
 # Best Practices
