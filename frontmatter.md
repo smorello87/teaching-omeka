@@ -2,24 +2,23 @@
 
 ## Abstract
 
-Omeka is a free Content Management System (CMS) and a web publishing system built by and for scholars that is used by hundreds of archives, historical societies, libraries, museums, and individual researchers and teachers to create searchable online databases and scholarly online interpretations of their digital collections. If you have a digital collection of primary sources that you want to publish online in a scholarly way, you’ll want to consider Omeka.
-Omeka allows to describe the items according to archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
+Omeka is a free Content Management System (CMS) and a web publishing system built by and for scholars that is used by hundreds of archives, historical societies, libraries, museums, and individual researchers and teachers to create searchable online databases and scholarly online interpretations of their digital collections. Omeka allows to describe the items according to archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
 
-Through this workshop, we are going to create and populate a database with artifacts from B. Altman’s & Co., the department store that until January 1990 resided in the building that now houses CUNY's Graduate Center. We are then going to create a sample exhibition that uses the items in our collections to tell the story of the store in the first two decades of the 1900s.
+Through this workshop, we are going to explore different ways to use Omeka in the classroom, with a focus on its pedagogical and public-facing capacities.
 
 ## Learning Objectives
 
 In this workshop, you will learn the following skills:
 
-- 
+- Some best practices 
 
 ## Estimated time
 
-One Hour. 
+One hour. 
 
 ## Prerequisites
 
-- [Getting Started with Omeka.net](sections/omekainstall.md) 
+- [Intro to Omeka](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md) 
 
 ### Pre-reading suggestions
 
@@ -38,12 +37,10 @@ One Hour.
 
 ### Ethical Considerations
 
-- Something on Copyright? 
+When working on a digital archive, you want to keep in mind issues concerning intellectual property, privacy, discoverability, accessibility, and sustainabiltiy. Head over to our [Intro to Omeka workshop](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md) to read more about these matters.
 
 ## Resources (optional)
 
-- [Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)
-- [Next Steps/Resources](sections/next.md)   
 - [Digital Archive Research Collective (DARC) Wiki](cuny.is/darc-wiki)
 - [Omeka Documentation](https://omeka.org/classic/docs/)
 - [Omeka S Documentation](https://omeka.org/s/docs/user-manual/)
@@ -51,4 +48,3 @@ One Hour.
 ## Acknowledgements
 
 - Current Author: Stefano Morello
-- Contributing Authors: This workshop was developed by Stefano Morello, based on Amanda French's [Introduction to Omeka Lesson Plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan/).
