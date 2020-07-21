@@ -43,11 +43,15 @@ The [Omeka Gym](https://omekagym.omeka.net/about) and [Omeka for Millenials](htt
 
 ## Learn from and Teach through Metadata 
 
-Consider developing metadata guidelines with your students in class.  and compile some sample items in a spreadsheet with them.
+Following a theoretical introduction to metadata and its ethics (please refer to the [Intro to Omeka workshop)[https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md]), consider developing shared metadata guidelines for your archive with your students. 
+
+Once you have settled on a schema and developed shared criteria to compile it, consider [populating  a spreadsheet in class with metadata](https://omekagym.omeka.net/items/show/526) for some sample items.
 
 ## Copyright and licensing 
 
-It's a good idea to spend some time in class discussing copyright and licensing. [Alston Cobourn](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/) points to this useful [tool to teach and practice this](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/).
+When using Omeka in the classroom, you will be prompted to discuss questions that concern copyright and licensing. [Alston Cobourn](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/) recommends [a set of excercises to teach and practice this](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/). This is also an excellent opportunity to introduce students to [Creative Commons licensing](https://creativecommons.org/licenses/), proper citation and acknowledgements, as well as the concept of fair use. 
+
+If you are teaching a slightly more advanced DH class, encouraging your students to work with and along other online repositories can also offer the opportunity to introduce them to [linked open data](https://programminghistorian.org/en/lessons/intro-to-linked-data) and its affordances. 
 
 ## Grading 
 

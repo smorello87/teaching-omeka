@@ -9,6 +9,7 @@
 ## Other Tutorials
 
 - [Getting Started with TEI](https://github.com/gofilipa/tei_workshop)
+- [Data and Data Ethics](https://github.com/DHRI-Curriculum/data-literacies)
 
 ## Projects or Challenges to Try
 

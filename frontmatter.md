@@ -10,7 +10,9 @@ Through this workshop, we are going to explore different ways to use Omeka in th
 
 In this workshop, you will learn the following skills:
 
-- Some best practices 
+- Assessing whether Omeka is a tool that matches your learning objectives
+- Get acquainted with some project ideas to develop in your class and their desirable outcomes
+- Best practices to plan a course that uses Omeka as a tool to learn about archives and to produce public-facing assignments 
 
 ## Estimated time
 
