@@ -8,18 +8,18 @@ With a little bit of work, however, you can have both options at the same time. 
 # Project Ideas
 Omeka offers some great features that integrate well within teaching environments and is especially well suited for projects that involve:
 
-## Archival Preservation <br>
+* Archival Preservation <br>
 Digitizing and describing objects from physical archives and creating metadata descriptions and virtual exhibits.
 
-## “Archival Recovering” and “Archival Remixing” <br>
+* “Archival Recovering” and “Archival Remixing” <br>
 Presenting visual analyses or reinterpretations of holdings, including born-digital material, from other websites or digital archives. I borrow the terms “recovery” and “remix” from [Laura Helton](https://www.academia.edu/11058327/The_Question_of_Recovery_Slavery_Freedom_and_the_Archive) and [Elizabeth Maddock-Dillon](https://ecda.northeastern.edu/home/about/decolonizing-the-archive/), respectively.
 
-## Coursework Archiving <br>
+* Coursework Archiving <br>
 Omeka allows teachers to create a repository of final course projects, such as digital and multimodal essays, with metadata attached. These can be offered as private resources or be open to the public. 
 
 # Desirable Outcomes
 
-- Digital Literacy <br>
+## Digital Literacy <br>
 Teaching with Omeka allows students the opportunity to engage (sometimes for the first time) in some common practices for working with digital tools, such as how to use software documentation, how to participate in a community of practice, or something as simple as how to problem solve through Google effectively. An Omeka-based assignment can also be an opportunity to provide students basic training on essential digital skills, as students will likely encounter questions on file formats, standards, sizing, copyright, and licensing. 
 
 ## Archival Research Skills <br>
