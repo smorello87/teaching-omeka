@@ -37,7 +37,7 @@ One hour.
 
 ### Ethical Considerations
 
-When working on a digital archive, you want to keep in mind issues concerning intellectual property, privacy, discoverability, accessibility, and sustainabiltiy. Head over to our [Intro to Omeka workshop](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md) to read more about these matters.
+When working with digital archives, you want to keep in mind issues concerning intellectual property, privacy, discoverability, accessibility, and sustainabiltiy. Head over to our [Intro to Omeka workshop](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md) to read more about these matters.
 
 ## Resources (optional)
 
