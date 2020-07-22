@@ -20,13 +20,13 @@ Omeka allows teachers to create a repository of final course projects, such as d
 # Desirable Outcomes
 
 ## Digital Literacy <br>
-Teaching with Omeka allows students the opportunity to engage (sometimes for the first time) in some common practices for working with digital tools, such as how to use software documentation, how to participate in a community of practice, or something as simple as how to problem solve through Google effectively. An Omeka-based assignment can also be an opportunity to provide students basic training on essential digital skills, as students will likely encounter questions on file formats, standards, sizing, copyright, and licensing. 
+Teaching with Omeka allows students the opportunity to engage (sometimes for the first time) in some common practices for working with digital tools, such as how to use software documentation, how to participate in a community of practice, or something as simple as using Google to problem solve effectively. An Omeka-based assignment can also be an opportunity to provide students basic training on essential digital skills, as students will likely encounter questions on file formats, standards, sizing, copyright, and licensing. 
 
 ## Archival Research Skills <br>
 In addition to learning about artistic, historical, or literary subjects and introducing students to the field of Digital Humanities, digital archives also provide basic training in archival research. Students will have the opportunity to both conduct research in local (or digital) archives while thinking like archivists and curators, as they engage critically with their items. 
 
 ## Public-Facing Academic Writing <br>
-Curating a digital archive requires students to engage with forms of writing that differ from standard academic writing. [Public Humanities-oriented work](https://www.neh.gov/divisions/fedstate/in-the-field/56-ways-do-the-public-humanities) allows for class reflections on topics as diverse as effective storytelling techniques, the affordances of digital writing, and the intricacies of visual rhetoric. At the same time, producing work that (unlike traditional assignment) has the potential of living and circulating beyond the walls of the classroom (and the eye of a course instructor) can nurture in students a sense of relevance. (Please note that, because of their public facing nature, keeping questions around privacy in mind when designing and introducing these assignments in class is especially key to these kind of projects.) 
+Curating a digital archive requires students to engage with forms of writing that differ from standard academic writing. [Public Humanities-oriented work](https://www.neh.gov/divisions/fedstate/in-the-field/56-ways-do-the-public-humanities) allows for class reflections on topics as diverse as effective storytelling techniques, the affordances of digital writing, and the intricacies of visual rhetoric. At the same time, producing work that (unlike traditional assignment) has the potential of living and circulating beyond the walls of the classroom (and the eye of a course instructor) can nurture in students a sense of relevance. (Please note that, because of their public facing nature, keeping questions around privacy in mind when designing and introducing these assignments in class is especially key to these kinds of projects.) 
 
 ## Collaborative Work <br>
 Digital archive-based courses allow students to participate in the kind of collaborative praxis that, [according to Lisa Spiro](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335), is one of the central tenets of Digital Humanities. “Lab Culture” can be enacted by working collectively on assignments, building on (and crediting!) the work of previous cohorts, and connecting work conducted in class with the local community. 
@@ -45,7 +45,7 @@ The [Omeka Gym](https://omekagym.omeka.net/about) and [Omeka for Millenials](htt
 
 Following a theoretical introduction to metadata and its ethics (please refer to the [Intro to Omeka workshop](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/frontmatter.md)), consider developing shared metadata guidelines for your archive with your students. 
 
-Once you have settled on a schema and developed shared criteria to compile it, consider [populating  a spreadsheet in class with metadata](https://omekagym.omeka.net/items/show/526) for some sample items.
+Once you have settled on a schema and developed shared criteria to compile it, consider [populating  a spreadsheet in class](https://omekagym.omeka.net/items/show/526) for some sample items.
 
 ## Copyright and licensing 
 
