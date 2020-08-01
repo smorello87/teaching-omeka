@@ -18,4 +18,8 @@
 
 ## Discussion Questions
 
-- Content TBD
+- How are you thinking of incorporating a digital archiving component to your course?
+- What are some of the features that make Omeka preferable to using the Commons for a digital archiving classroom project? Are there instances when a different platform should be used instead?
+- How can we best use Omeka to spark collaborations among students; between instructors and students; and between students and non-academic communities? 
+
+*Please join me on August 18 at 11am-12pm to learn about Omeka and consider how it might enhance or complement your remote teaching.*
