@@ -19,7 +19,3 @@ This workshop offers different possibilities to use Omeka in the classroom, with
 ## Notes
 
 This workshop can be both taught as stand-alone or as a follow up to the [Introduction to Omeka](https://github.com/smorello87/intro-to-omeka).
-
-## Needed/Desired Changes 
-It can certainly be expanded, perhaps by showing 1-2 case studies, or by co-teaching with guest instructors willing to share their experience with the participants. Also, it is considerably less hands-on than most GCDI workshops; we can certainly improve this workshop on that front.
-
