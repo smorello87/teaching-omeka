@@ -18,4 +18,4 @@ This workshop offers different possibilities to use Omeka in the classroom, with
 
 ## Notes
 
-This workshop can be both taught as stand-alone or as a follow up to the [Introduction to Omeka](https://github.com/smorello87/intro-to-omeka).
+This workshop can be both taught as stand-alone or as a follow up to the [Introduction to Omeka](https://github.com/smorello87/intro-to-omeka). The workshop takes approximately ninety minutes to complete.
